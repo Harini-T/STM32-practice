@@ -1,0 +1,8 @@
+
+target/.metadata/*
+host/.metadata/*
+host/.metadata/.plugins/org.eclipse.core.resources/.projects/000TestProject/.markers.snap
+host/.metadata/.plugins/org.eclipse.core.resources/.projects/000TestProject/.markers.snap
+host/.metadata/.plugins/org.eclipse.core.resources/.projects/000TestProject/.syncinfo.snap
+.DS_Store
+*.snap
